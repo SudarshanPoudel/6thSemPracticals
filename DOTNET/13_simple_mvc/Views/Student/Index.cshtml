@@ -1,0 +1,25 @@
+@model IEnumerable<StudentMvcApp.Models.Student>
+
+@{
+    ViewData["Title"] = "Student List";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table ">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Marks</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Marks</td>
+            </tr>
+        }
+    </tbody>
+</table>

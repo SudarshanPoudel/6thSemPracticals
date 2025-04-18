@@ -1,0 +1,3 @@
+.vscode
+CDC/*
+!CDC/*.c

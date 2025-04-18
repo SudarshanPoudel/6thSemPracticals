@@ -1,0 +1,14 @@
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/bin/Debug/net8.0/05_enum_struct
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/bin/Debug/net8.0/05_enum_struct.deps.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/bin/Debug/net8.0/05_enum_struct.runtimeconfig.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/bin/Debug/net8.0/05_enum_struct.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/bin/Debug/net8.0/05_enum_struct.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/obj/Debug/net8.0/05_enum_struct.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/obj/Debug/net8.0/05_enum_struct.AssemblyInfoInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/obj/Debug/net8.0/05_enum_struct.AssemblyInfo.cs
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/obj/Debug/net8.0/05_enum_struct.csproj.CoreCompileInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/obj/Debug/net8.0/05_enum_struct.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/obj/Debug/net8.0/refint/05_enum_struct.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/obj/Debug/net8.0/05_enum_struct.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/obj/Debug/net8.0/05_enum_struct.genruntimeconfig.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/05_enum_struct/obj/Debug/net8.0/ref/05_enum_struct.dll

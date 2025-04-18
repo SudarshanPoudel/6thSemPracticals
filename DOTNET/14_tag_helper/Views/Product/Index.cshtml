@@ -1,0 +1,31 @@
+@model ProductSearchApp.Models.ProductSearchViewModel
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Index" method="get">
+    <div class="form-group">
+        <label asp-for="SearchProduct">Search Product</label>
+        <input asp-for="SearchProduct" class="form-control" />
+        <button type="submit" class="btn btn-primary mt-2">Search</button>
+    </div>
+</form>
+
+<table class="table mt-4" style="text-align: left;">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td>@product</td>
+            </tr>
+        }
+    </tbody>
+</table>

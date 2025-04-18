@@ -1,0 +1,14 @@
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/bin/Debug/net8.0/10_file_handeling
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/bin/Debug/net8.0/10_file_handeling.deps.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/bin/Debug/net8.0/10_file_handeling.runtimeconfig.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/bin/Debug/net8.0/10_file_handeling.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/bin/Debug/net8.0/10_file_handeling.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/obj/Debug/net8.0/10_file_handeling.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/obj/Debug/net8.0/10_file_handeling.AssemblyInfoInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/obj/Debug/net8.0/10_file_handeling.AssemblyInfo.cs
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/obj/Debug/net8.0/10_file_handeling.csproj.CoreCompileInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/obj/Debug/net8.0/10_file_handeling.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/obj/Debug/net8.0/refint/10_file_handeling.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/obj/Debug/net8.0/10_file_handeling.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/obj/Debug/net8.0/10_file_handeling.genruntimeconfig.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/10_file_handeling/obj/Debug/net8.0/ref/10_file_handeling.dll

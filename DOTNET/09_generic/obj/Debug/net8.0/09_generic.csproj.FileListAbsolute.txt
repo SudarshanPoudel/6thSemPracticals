@@ -1,0 +1,14 @@
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/bin/Debug/net8.0/09_generic
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/bin/Debug/net8.0/09_generic.deps.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/bin/Debug/net8.0/09_generic.runtimeconfig.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/bin/Debug/net8.0/09_generic.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/bin/Debug/net8.0/09_generic.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/obj/Debug/net8.0/09_generic.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/obj/Debug/net8.0/09_generic.AssemblyInfoInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/obj/Debug/net8.0/09_generic.AssemblyInfo.cs
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/obj/Debug/net8.0/09_generic.csproj.CoreCompileInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/obj/Debug/net8.0/09_generic.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/obj/Debug/net8.0/refint/09_generic.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/obj/Debug/net8.0/09_generic.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/obj/Debug/net8.0/09_generic.genruntimeconfig.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_generic/obj/Debug/net8.0/ref/09_generic.dll

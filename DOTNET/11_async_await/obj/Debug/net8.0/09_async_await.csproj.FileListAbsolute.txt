@@ -1,0 +1,14 @@
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/bin/Debug/net8.0/09_async_await
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/bin/Debug/net8.0/09_async_await.deps.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/bin/Debug/net8.0/09_async_await.runtimeconfig.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/bin/Debug/net8.0/09_async_await.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/bin/Debug/net8.0/09_async_await.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/obj/Debug/net8.0/09_async_await.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/obj/Debug/net8.0/09_async_await.AssemblyInfoInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/obj/Debug/net8.0/09_async_await.AssemblyInfo.cs
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/obj/Debug/net8.0/09_async_await.csproj.CoreCompileInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/obj/Debug/net8.0/09_async_await.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/obj/Debug/net8.0/refint/09_async_await.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/obj/Debug/net8.0/09_async_await.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/obj/Debug/net8.0/09_async_await.genruntimeconfig.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/09_async_await/obj/Debug/net8.0/ref/09_async_await.dll

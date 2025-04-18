@@ -1,0 +1,14 @@
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/bin/Debug/net8.0/01_class_and_object
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/bin/Debug/net8.0/01_class_and_object.deps.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/bin/Debug/net8.0/01_class_and_object.runtimeconfig.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/bin/Debug/net8.0/01_class_and_object.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/bin/Debug/net8.0/01_class_and_object.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/obj/Debug/net8.0/01_class_and_object.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/obj/Debug/net8.0/01_class_and_object.AssemblyInfoInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/obj/Debug/net8.0/01_class_and_object.AssemblyInfo.cs
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/obj/Debug/net8.0/01_class_and_object.csproj.CoreCompileInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/obj/Debug/net8.0/01_class_and_object.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/obj/Debug/net8.0/refint/01_class_and_object.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/obj/Debug/net8.0/01_class_and_object.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/obj/Debug/net8.0/01_class_and_object.genruntimeconfig.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/01_class_and_object/obj/Debug/net8.0/ref/01_class_and_object.dll

@@ -1,0 +1,14 @@
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/bin/Debug/net8.0/04_method_hiding
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/bin/Debug/net8.0/04_method_hiding.deps.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/bin/Debug/net8.0/04_method_hiding.runtimeconfig.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/bin/Debug/net8.0/04_method_hiding.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/bin/Debug/net8.0/04_method_hiding.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/obj/Debug/net8.0/04_method_hiding.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/obj/Debug/net8.0/04_method_hiding.AssemblyInfoInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/obj/Debug/net8.0/04_method_hiding.AssemblyInfo.cs
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/obj/Debug/net8.0/04_method_hiding.csproj.CoreCompileInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/obj/Debug/net8.0/04_method_hiding.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/obj/Debug/net8.0/refint/04_method_hiding.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/obj/Debug/net8.0/04_method_hiding.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/obj/Debug/net8.0/04_method_hiding.genruntimeconfig.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/04_method_hiding/obj/Debug/net8.0/ref/04_method_hiding.dll

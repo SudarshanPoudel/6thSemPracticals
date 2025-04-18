@@ -1,0 +1,14 @@
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/bin/Debug/net8.0/001_hello_world
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/bin/Debug/net8.0/001_hello_world.deps.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/bin/Debug/net8.0/001_hello_world.runtimeconfig.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/bin/Debug/net8.0/001_hello_world.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/bin/Debug/net8.0/001_hello_world.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/obj/Debug/net8.0/001_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/obj/Debug/net8.0/001_hello_world.AssemblyInfoInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/obj/Debug/net8.0/001_hello_world.AssemblyInfo.cs
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/obj/Debug/net8.0/001_hello_world.csproj.CoreCompileInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/obj/Debug/net8.0/001_hello_world.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/obj/Debug/net8.0/refint/001_hello_world.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/obj/Debug/net8.0/001_hello_world.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/obj/Debug/net8.0/001_hello_world.genruntimeconfig.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/001_hello_world/obj/Debug/net8.0/ref/001_hello_world.dll

@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Session Example";
+    var name = ViewData["Name"] as string;
+}
+
+<h2>Session Example</h2>
+
+@if (!string.IsNullOrEmpty(name))
+{
+    <p>Welcome, <strong>@name</strong>!</p>
+    <form asp-action="Clear" method="post">
+        <button type="submit" class="btn btn-danger">Clear Session</button>
+    </form>
+}
+else
+{
+    <form asp-action="SetName" method="post">
+        <div class="form-group">
+            <label for="userName">Enter your name:</label>
+            <input type="text" id="userName" name="userName" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary mt-2">Save to Session</button>
+    </form>
+}

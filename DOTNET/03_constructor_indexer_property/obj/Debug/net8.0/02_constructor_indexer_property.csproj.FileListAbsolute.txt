@@ -1,0 +1,14 @@
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/obj/Debug/net8.0/02_constructor_indexer_property.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/obj/Debug/net8.0/02_constructor_indexer_property.AssemblyInfoInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/obj/Debug/net8.0/02_constructor_indexer_property.AssemblyInfo.cs
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/obj/Debug/net8.0/02_constructor_indexer_property.csproj.CoreCompileInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/bin/Debug/net8.0/02_constructor_indexer_property
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/bin/Debug/net8.0/02_constructor_indexer_property.deps.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/bin/Debug/net8.0/02_constructor_indexer_property.runtimeconfig.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/bin/Debug/net8.0/02_constructor_indexer_property.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/bin/Debug/net8.0/02_constructor_indexer_property.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/obj/Debug/net8.0/02_constructor_indexer_property.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/obj/Debug/net8.0/refint/02_constructor_indexer_property.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/obj/Debug/net8.0/02_constructor_indexer_property.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/obj/Debug/net8.0/02_constructor_indexer_property.genruntimeconfig.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/02_constructor_indexer_property/obj/Debug/net8.0/ref/02_constructor_indexer_property.dll

@@ -1,0 +1,14 @@
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/bin/Debug/net8.0/08_generic_linq
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/bin/Debug/net8.0/08_generic_linq.deps.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/bin/Debug/net8.0/08_generic_linq.runtimeconfig.json
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/bin/Debug/net8.0/08_generic_linq.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/bin/Debug/net8.0/08_generic_linq.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/obj/Debug/net8.0/08_generic_linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/obj/Debug/net8.0/08_generic_linq.AssemblyInfoInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/obj/Debug/net8.0/08_generic_linq.AssemblyInfo.cs
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/obj/Debug/net8.0/08_generic_linq.csproj.CoreCompileInputs.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/obj/Debug/net8.0/08_generic_linq.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/obj/Debug/net8.0/refint/08_generic_linq.dll
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/obj/Debug/net8.0/08_generic_linq.pdb
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/obj/Debug/net8.0/08_generic_linq.genruntimeconfig.cache
+/home/sudarshan/Desktop/Practical6thsem/DOTNET/08_generic_linq/obj/Debug/net8.0/ref/08_generic_linq.dll
